@@ -22,6 +22,5 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushk0412&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="ayushk0412" /></p>
 <br/> 
-<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushk0412&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="ayushk0412" /></p>
 
