@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Django Framework.**
 
-- 👨‍💻 All of my projects are available at [https://www.ayushk.tech](www.ayushk.tech)
+- 👨‍💻 All of my projects are available at <a target=blank>www.ayushk.tech</a>
 
 - 📫 How to reach me **ayushk0412@gmail.com**
 
